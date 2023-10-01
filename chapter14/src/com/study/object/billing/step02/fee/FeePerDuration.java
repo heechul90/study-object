@@ -1,7 +1,7 @@
-package com.study.object.step02.fee;
+package com.study.object.billing.step02.fee;
 
-import com.study.object.step02.meney.Money;
-import com.study.object.step02.time.DateTimeInterval;
+import com.study.object.meney.Money;
+import com.study.object.time.DateTimeInterval;
 
 import java.time.Duration;
 

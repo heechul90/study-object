@@ -1,4 +1,4 @@
-package com.study.object.step02.meney;
+package com.study.object.meney;
 
 import java.math.BigDecimal;
 import java.util.Objects;

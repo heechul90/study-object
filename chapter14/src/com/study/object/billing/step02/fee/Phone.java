@@ -1,6 +1,6 @@
-package com.study.object.step02.fee;
+package com.study.object.billing.step02.fee;
 
-import com.study.object.step02.meney.Money;
+import com.study.object.meney.Money;
 
 import java.util.ArrayList;
 import java.util.List;

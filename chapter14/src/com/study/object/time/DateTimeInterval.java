@@ -1,4 +1,4 @@
-package com.study.object.step02.time;
+package com.study.object.time;
 
 import java.time.Duration;
 import java.time.LocalDate;
